@@ -15,10 +15,13 @@
 ### 🙋‍♂️ About me
 
 - 🎓 Software Engineering graduate from **UPC**, Lima 🇵🇪
-- 💼 Full Stack developer at **Cámara de Comercio de Lima** — AI integrations & .NET APIs
+- 💼 Full Stack Developer at **Cámara de Comercio de Lima** — AI integrations & .NET APIs
 - 🤖 Built a conversational AI agent that handles **~40% of product sales** using Copilot Studio
 - 🧠 Working on my thesis: **Peruvian Sign Language (LSP) recognition** with LSTM models
 - 🌐 Currently exploring **Vertex AI (Gemini)**, **GCP** and document intelligence
+- 🗣️ **Spanish** (native) · **English**
+- 🎵 My playlist goes from post-hardcore & metalcore to hyperpop and rap — yes, all in the same shuffle
+- 🚀 Peaked **Diamond II** in Rocket League
 
 ---
 
